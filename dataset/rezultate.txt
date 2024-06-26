@@ -1,0 +1,8 @@
+************************************** 
+Numar1: 25 
+Numar2: 40 
+Adunare: Rezultatul operatiei de adunare este: 65 
+Scadere: Rezultatul operatiei de scadere este: 15 
+Inmultire: rezultatul operatitie de inmultire este: 1000 
+Impartire: rezultatul impartii este: 1.6 
+==================== 
